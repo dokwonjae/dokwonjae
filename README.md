@@ -7,19 +7,16 @@
 
 ## 🛠️ 기술 스택
 
-### 📌 자주 사용하는 기술
+### 📌 사용하는 기술
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lombok-CA2C92?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Lombok-CA2C92?style=flat-square"/> <img src="https://img.shields.io/badge/JSP%2FJSTL-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lombok-CA2C92?style=flat-square"/> 
+ <img src="https://img.shields.io/badge/JSP%2FJSTL-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
-
-### 🧩 사용해본 기술
 <p>
   <img src="https://img.shields.io/badge/Redis%2FRedisson-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
