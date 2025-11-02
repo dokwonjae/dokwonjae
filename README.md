@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lombok-CA2C92?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lombok-CA2C92?style=flat-square"/> <img src="https://img.shields.io/badge/JSP%2FJSTL-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 ### 🧩 사용해본 기술
