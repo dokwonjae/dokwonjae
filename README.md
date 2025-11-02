@@ -33,5 +33,5 @@
 
 ### 📊 GitHub 활동 통계
 
-<img src="https://github-readme-stats.vercel.app/api?username=dokwonjae&show_icons=true&theme=gotham" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=dokwonjae&show_icons=true&theme=gotham" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokwonjae&layout=compact" />
